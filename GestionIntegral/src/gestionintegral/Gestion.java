@@ -2,6 +2,6 @@ package gestionintegral;
 
 public class Gestion {
 	public static void main (String[] args){
-		System.out.println("Proyecto 1.3");
+		System.out.println("Proyecto 1.5");
 	}
 }
